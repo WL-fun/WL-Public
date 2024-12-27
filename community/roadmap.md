@@ -42,7 +42,6 @@ We plan to launch a new version of  World Lottery, offering greater game variety
 
 -**Random Points Box** to send a variety of exciting rewards
 
-- Random points box
 
 #### Future:
 
